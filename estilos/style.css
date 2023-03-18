@@ -41,7 +41,7 @@ main{
 }
 #redes-sociais img{ 
     width: 30px;
-    margin: 3px;  
+    margin: 5px;    ;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.438);
     box-sizing: border-box; 
@@ -50,6 +50,7 @@ main{
 #redes-sociais{
     padding: 2px;
    text-align: center;
+   padding: 20px;
 }
 #redes-sociais img:hover{
     border: 2px solid rgb(255, 255, 255);
