@@ -5,13 +5,13 @@
     padding: 0px;
 }
 html, body{
-    background-color: black;
+ 
     width: 100vw;
     height: 100vh;
     }
 
     body{
-        /*background-image: url(../imagens/fundo-madeira.jpg);*/      
+        background-image: url(../imagens/fundo-madeira.jpg);*/      
         position: center;
         background-size: cover;
         background-attachment: fixed;              
@@ -19,7 +19,8 @@ html, body{
 
 main{
     height: 100vh;
-    position: relative; 
+    position: relative;
+ 
 }
 
 #telefone{
@@ -37,10 +38,11 @@ main{
     left: 22px;
     width: 267px;
     height: 471px;
+    background-color: white;
 
 }
 #redes-sociais img{ 
-    width: 30px;
+    width: 40px;
     margin: 5px;    ;
     border-radius: 50%;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.438);
